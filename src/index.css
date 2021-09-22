@@ -5,30 +5,6 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #ece8e8;
     font-family: 'Lato', sans-serif;
 }
-img{
-    width: 100%;
-}
-.container{
-    width: 90%;
-    margin:0 auto;
-    height: calc(100vh - 40px);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.wrapper{
-    display: flex;
-    justify-content: space-between;
-}
-.left_side{
-    width: 48%;
-    padding:15px;
-}
-.right_side{
-    width: 48%;
-    padding:15px;
-    
-}
+
